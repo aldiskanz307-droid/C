@@ -3,7 +3,7 @@
 int main(void) {
     printf("First program");
     while (1) {
-        int a;
+        int a, b;
     }
     return 0;
 }
